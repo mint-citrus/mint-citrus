@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on ... something ... useless???
 - 🌱 I’m currently learning ... Rust, Javascript
-- 📫 How to reach me: ... [Twitter](https://twitter.com/hakka_ha_mint)
+- 📫 How to reach me: ... [Twitter](https://twitter.com/still_hakka)
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ... ぬべって何
 
